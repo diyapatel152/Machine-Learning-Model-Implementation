@@ -31,3 +31,5 @@ To generate an efficient spam detection model, this project followed to a number
 # Output:
 
 ![Image](https://github.com/user-attachments/assets/6010452d-4bd0-4f26-96f8-e4356730d380)
+
+![Image](https://github.com/user-attachments/assets/be32acb8-5986-48fb-9077-f8e3fef03cb2)
