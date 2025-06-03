@@ -27,3 +27,7 @@ To generate an efficient spam detection model, this project followed to a number
 - Gained practical experience in data preprocessing, vectorization, and classification.
 - Learned how to clean real-world text data and handle missing labels.
 - Applied model evaluation techniques to validate the performance.
+
+# Output:
+
+![Image](https://github.com/user-attachments/assets/6010452d-4bd0-4f26-96f8-e4356730d380)
